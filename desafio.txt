@@ -1,0 +1,7 @@
+1.  implementar a multiplicação
+2. Fazer um commit
+3. Implementar o teste da multiplicação
+4. Fazer um commit
+5. Criar uma tag
+6. Subir todo mundo (tag e branch) para o Github, com um comando só
+
